@@ -7,7 +7,7 @@
 
 Lab Exercises
 
-1. At first, I created new java project in ecllipse with name Lab8_202001135 and created a package named lab8 inside it. 
+1. At first, I created new java project in ecllipse with name Lab8_202001248 and created a package named lab8 inside it. 
 
 → First of all , created an eclipse project and then created a new package.
 
